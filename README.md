@@ -7,7 +7,7 @@ Install
 Clone repository with configs and execute build.sh:
 
     git clone git://github.com/zloylos/configs.git ~/.configs
-    ~/.configs/./build.sh --name='YOUR NAME' --email=EMAIL
+    sh ~/.configs/build.sh --name='YOUR NAME' --email=EMAIL
 
 Credits
 =========================
