@@ -14,8 +14,8 @@ alias gca="git commit -am"
 
 alias gcp="git git_cherry-pick"
 
-alias gd="git diff"
-alias gt="git log"
+alias gd="git d"
+alias gt="git t"
 alias gl="git l"
 
 alias grl="git rl"
