@@ -11,5 +11,5 @@ Clone repository with configs and execute build.sh:
 
 Credits
 =========================
-Thx to [@tarmolov](https://twitter.com/#!/tarmolov) (for base)
+Thx to [@tarmolov](https://twitter.com/#!/tarmolov) (for base).
 See Alexandr Tarmolov's configs repo: [github.com/tarmolov/configs/](https://github.com/tarmolov/configs/)
