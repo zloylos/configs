@@ -1,0 +1,23 @@
+[include]
+    path = .git-aliases/common
+[color]
+    ui = true
+[core]
+    safecrlf = true
+    whitespace = space-before-tab,trailing-space
+[push]
+    default = tracking
+[gc]
+    auto = 0
+[branch]
+    autosetuprebase = always
+[merge]
+    tool = diffconflicts
+[mergetool "diffconflicts"]
+    cmd = diffconflicts vim $BASE $LOCAL $REMOTE $MERGED
+    trustExitCode = true
+    keepBackup = false
+[advice]
+    statushints = false
+[diff]
+    algorithm = patience

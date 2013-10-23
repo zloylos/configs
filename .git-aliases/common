@@ -1,0 +1,21 @@
+[alias]
+	ch = checkout
+	chb = checkout --track -b
+
+	b = branch
+	ba = branch -a
+	
+	a = add
+	aa = add -A
+	c = commit -m 
+	ca = commit -am
+
+	p = pull 
+	pp = push
+	m = merge
+	
+	d = diff
+	t = status
+	l = log --graph
+
+	rl = reset --hard HEAD~1
