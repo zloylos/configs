@@ -3,8 +3,6 @@ if [ -f ~/.bashrc ] && [ ! -L ~/.bashrc ]; then
    . ~/.bashrc
 fi
 
-export TERM=linux
-export LESSCHARSET=utf-8
 export EDITOR=vim
 
 # Use local bin before
