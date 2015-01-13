@@ -2,6 +2,7 @@
     path = .git-aliases/common
 [color]
     ui = true
+    words = true
 [core]
     safecrlf = true
     whitespace = space-before-tab,trailing-space
