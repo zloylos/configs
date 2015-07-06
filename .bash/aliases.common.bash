@@ -22,6 +22,6 @@ alias .4='cd ../../../../'
 alias .5='cd ../../../../..'
 
 # list
-alias la="ls -laG"
+alias la="ls -laGh"
 alias ll='ls -l'
 alias l='ls -CF'
