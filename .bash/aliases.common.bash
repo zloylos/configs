@@ -7,6 +7,7 @@ alias debrelease='if [ -e dupload.conf ]; then debrelease -c --nomail; else debr
 
 # editor
 alias vim='vim -p'
+alias e='vim -p'
 alias svim='sudo vim'
 
 # grep
